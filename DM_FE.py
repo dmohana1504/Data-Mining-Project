@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-# Correct the path to the location where your wdbc.data file is stored
+
 df = pd.read_csv('C:/Users/nidheesh/wdbc.data', header=None)
 
 
